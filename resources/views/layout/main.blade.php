@@ -87,7 +87,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
           <img src="{{asset('admin/dist/img/IMG_3139.jpg')}}" class="img-circle" alt="User Image">
         </div>
         <div class="info">
-          <a href="#" class="d-block">Faisal Al Zamar</a>
+          <a href="#" class="d-block">Dicka Al Amanda</a>
         </div>
       </div>
 
